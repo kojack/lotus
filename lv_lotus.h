@@ -69,7 +69,7 @@ extern lv_style_prop_t LV_STYLE_LOTUS_GROW;
  **********************/
 
 /**
- * Initialize a felx layout the default values
+ * Initialize a lotus layout the default values
  * @param lotus pointer to a lotus layout descriptor
  */
 void lv_lotus_init(void);
